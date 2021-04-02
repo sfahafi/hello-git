@@ -19,7 +19,7 @@ Underline 2
 - Formato __bold o strong__ de la segunda forma
 - Formato ~~tachado~~
 
-#Listas
+# Listas
 1. esto es un item de lista ordenada
 2. esto es un item de lista ordenada
 3. esto es un item de lista ordenada
